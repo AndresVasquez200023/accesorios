@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10898562678",
+    "project_id": "logintienda-698f9",
+    "storage_bucket": "logintienda-698f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10898562678:android:fd0853c06bb2a07dffc957",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zRm44Yk90ZRAZrJAxknMGPbdCVb_BHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

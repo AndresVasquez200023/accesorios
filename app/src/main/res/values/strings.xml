@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="welcome_message">Bienvenido, %s</string>
+    <string name="date_message">Fecha: %s</string>
+
+</resources>
+
